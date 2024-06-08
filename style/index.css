@@ -1,0 +1,57 @@
+body {
+  background-color: #fdf9d9;
+  overflow-x: hidden;
+}
+
+header {
+  background-color: #2471cd;
+  border-bottom: 1px solid #000000;
+}
+
+nav {
+  background-color: rgba(96, 194, 250, 0.2745098039);
+  border-bottom: 1px solid #000000;
+}
+nav h1 {
+  color: #00050a;
+  cursor: default;
+}
+nav a {
+  text-decoration: none;
+  color: #828f12;
+  cursor: pointer;
+}
+nav a:hover {
+  color: #6d7714;
+}
+
+.title-image {
+  background-image: url(/assets/main-image-borboleta.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 515px;
+  color: #f1ecb0;
+  border-bottom: 1px solid #000000;
+  cursor: default;
+}
+
+.welcome h2 {
+  color: #1d5e7c;
+}
+.welcome h1 {
+  color: #024e09;
+}
+.welcome p {
+  color: #9f6815;
+  font-size: 18px;
+}
+.welcome #culi {
+  color: #56005e;
+}
+.welcome #nar {
+  color: #039b24;
+}
+.welcome #ias {
+  color: #c20000;
+}/*# sourceMappingURL=index.css.map */
